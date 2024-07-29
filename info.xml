@@ -26,5 +26,6 @@
   <civix>
     <namespace>CRM/Shoreditchthirdparty</namespace>
     <angularModule>crmShoreditchthirdparty</angularModule>
+    <format>23.02.1</format>
   </civix>
 </extension>
